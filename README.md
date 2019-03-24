@@ -19,4 +19,4 @@
 
 ## Næstu skref
 
-##### Ég hefði örugglega gert waves af zombies þannig að eftir að spilarinn væri búinn að drepa alla á borðinu myndu spawn fleiri zombies á hverju wavei. Síðan myndi ég láta spilarann getað unnið ef hann nær að lifa af ákveðið margar waves. 
+##### Ég hefði örugglega gert waves af zombies þannig að eftir að spilarinn væri búinn að drepa alla á borðinu myndu spawna fleiri zombies á hverju wavei. Síðan myndi ég láta spilarann getað unnið ef hann nær að lifa af ákveðið margar waves. 
