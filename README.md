@@ -16,3 +16,7 @@
 ##### https://assetstore.unity.com/packages/3d/characters/robots/4696
 ##### https://assetstore.unity.com/packages/essentials/asset-packs/32351
 ##### https://assetstore.unity.com/packages/3d/environments/landscapes/47726
+
+## Næstu skref
+
+##### Ég hefði örugglega gert waves af zombies þannig að eftir að spilarinn væri búinn að drepa alla á borðinu myndu spawn fleiri zombies.
