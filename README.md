@@ -18,7 +18,7 @@
 ##### https://assetstore.unity.com/packages/3d/environments/landscapes/47726
 ##### http://devassets.com/assets/sci-fi-weapons/
 ##### Tónlist frá Left 4 Dead 2
-##### Hljóð frá freesound.org
+##### Hljóð frá https://freesound.org
 
 ## Næstu skref
 
